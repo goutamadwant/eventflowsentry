@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use EventFlowSentry, please cite the archived software release and the SoftwareX paper when available."
+title: "EventFlowSentry: Reproducible Fault Injection and Metamorphic Testing for Event-Time Streaming Pipelines"
+version: "0.1.0"
+type: software
+authors:
+  - family-names: Adwant
+    given-names: Goutam
+    orcid: "https://orcid.org/0009-0000-7330-4361"
+repository-code: "https://github.com/goutamadwant/eventflowsentry"
+license: Apache-2.0
+date-released: "2026-06-15"
+keywords:
+  - stream processing
+  - fault injection
+  - metamorphic testing
+  - Kafka
+  - reproducibility
+abstract: "EventFlowSentry generates reproducible event-time stream fault scenarios and evaluates metamorphic correctness oracles for streaming-pipeline testing."
